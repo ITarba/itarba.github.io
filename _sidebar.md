@@ -1,6 +1,7 @@
 - [Home](./README.md)
 - Tutorials
     - Python
-        - [Hello](./tutorials/index)
+        - [Hello](./tutorials/python/index)
+    - [Docsify și Google Pages](./tutorials/docsify_and_google_pages.md)
     - Java
 - Contact
