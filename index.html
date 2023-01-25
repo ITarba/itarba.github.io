@@ -28,7 +28,25 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
 </body>
 </html>
-
+<script>
+function myFunction() {
+  elements = document.getElementsByName("details");
+  
+  if(document.display == "none"){
+      document.display ="block";
+      document.getElementsByName("button_details")[0].textContent="Hide details"
+  }
+  else{
+    document.display = "none";
+      document.getElementsByName("button_details")[0].textContent="Show details"
+  }
+  console.log(document.display);
+  for (let i=0;i<elements.length; i++)
+  {
+    console.log(elements[i].style.display=document.display);
+  }
+}
+</script>
 
 
 <!-- 
