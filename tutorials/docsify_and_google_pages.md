@@ -8,40 +8,40 @@
 
 First thing first, make sure that we have Node.js on our local machine. So, download and install Node.js from this link: https://nodejs.org/en/
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs.png" name="details" style="height: 200px; width:600px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs.PNG" name="details" style="height: 200px; width:600px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs2.png" name="details" style="height: 200px; width:200px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs2.PNG" name="details" style="height: 200px; width:200px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs3.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs3.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs4.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs4.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs5.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs5.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs6.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs6.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs7.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs7.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs8.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs8.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs9.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs9.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs10.png" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs10.PNG" name="details" style="height: 200px; width:300px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs11.png" name="details" style="height: 250px; width:500px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs11.PNG" name="details" style="height: 250px; width:500px; display: none; margin-left: auto; margin-right: auto;display: none; "/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs12.png" name="details" style="height: 250px; width:500px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/nodejs12.PNG" name="details" style="height: 250px; width:500px; display: none; margin-left: auto; margin-right: auto; display: none;"/>
 <figcaption name="details" style=" display: none; margin-left: auto; margin-right: auto; width: 50%;display: none;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
 After the Node.js instalation, verify if everithing went well by checking the version number in a console. So open a CMD and type:
@@ -49,7 +49,7 @@ After the Node.js instalation, verify if everithing went well by checking the ve
 node -v
 npm -v
 ```
-<img src="docs/assets/images/tutorials/docsify_google_pages/check1.png" alt="MarineGEO" style="height: 100px; width:200px; display: none; margin-left: auto; margin-right: auto; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/check1.PNG" alt="MarineGEO" style="height: 100px; width:200px; display: none; margin-left: auto; margin-right: auto; "/>
 <figcaption style=" display: none; margin-left: auto; margin-right: auto; width: 50%;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
 > Next, you need to install the docsify-cli:
@@ -57,7 +57,7 @@ npm -v
 ```bash
 npm i docsify-cli -g
 ```
-<img src="docs/assets/images/tutorials/docsify_google_pages/install_cli.png" alt="MarineGEO" style="height: 300px; width:600px; display: none; margin-left: auto; margin-right: auto; "/>
+<img src="docs/assets/images/tutorials/docsify_google_pages/install_cli.PNG" alt="MarineGEO" style="height: 300px; width:600px; display: none; margin-left: auto; margin-right: auto; "/>
 <figcaption style=" display: none; margin-left: auto; margin-right: auto; width: 50%;">Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
 ## Initialize the subdirectory
